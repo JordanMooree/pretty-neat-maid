@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pretty-neat-maid/static/css/main.2c88bfa8.css",
-    "main.js": "/pretty-neat-maid/static/js/main.bb823d22.js",
-    "static/media/wash_01.jpg": "/pretty-neat-maid/static/media/wash_01.25fb3a9ff5fecaf27bb1.jpg",
-    "index.html": "/pretty-neat-maid/index.html",
-    "main.2c88bfa8.css.map": "/pretty-neat-maid/static/css/main.2c88bfa8.css.map",
-    "main.bb823d22.js.map": "/pretty-neat-maid/static/js/main.bb823d22.js.map"
+    "main.css": "/static/css/main.2c88bfa8.css",
+    "main.js": "/static/js/main.7e2303c0.js",
+    "static/media/wash_01.jpg": "/static/media/wash_01.25fb3a9ff5fecaf27bb1.jpg",
+    "index.html": "/index.html",
+    "main.2c88bfa8.css.map": "/static/css/main.2c88bfa8.css.map",
+    "main.7e2303c0.js.map": "/static/js/main.7e2303c0.js.map"
   },
   "entrypoints": [
     "static/css/main.2c88bfa8.css",
-    "static/js/main.bb823d22.js"
+    "static/js/main.7e2303c0.js"
   ]
 }
