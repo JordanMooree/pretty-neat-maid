@@ -1,7 +1,7 @@
 {
   "name": "pretty-neat-maids",
   "version": "0.1.0",
-  "homepage": "https://prettyneatmaidsllc.com/",
+  "homepage": "https://jordanmooree.github.io/pretty-neat-maid",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
